@@ -1,0 +1,14 @@
+{
+  "id": "testuser_2_keys",
+  "admins": [
+    "msys"
+  ],
+  "clients": [
+    "node2",
+    "node1"
+  ],
+  "search_query": "*.*",
+  "node2": "abUToP57QtYlWzstz1gdUVu0N6Z/tL4sTwleZfX4GiehlZvdS5mo+t0gE6/A\nQvq47HJ014g0MUyojw6njcPf7lzxptgp4lcccAnLHgwbqJYyL8Hx9eJczzKn\nGf9Qqx3HnudanDxEuSZ0d379XSpdFP7tU8a37jB9g/wfyG79uHbxVqy04tsd\n0kNOhf+Z4bzvz93om7NWZdYfg8LWHiwbqWYdTOkt2VhZF05BoqdA11wKGQLP\nOCqwuZsc2bagYW+mylmKTu4G3Om0ittJQP64+Kg0nR8SeIvaD3PRMDHJ4ztg\nzuF8C7h077GQ/HX6L/spKdlT7WyyUKDOcy5RCXVDAQ==\n",
+  "node1": "JWd/NqVO4BFbKEm7U81GJYlCcjrpTwL0wgbigqNwX4J2xyBL5gArQSQfDGrR\n0AM0miCLpI1g79MJfTiIPNHmpJ6uN8zsn+peZrxsVxyDFyrSWOBrFyTrPvoD\niPMuYSP3SJ29Ga+tcgRRG6pcyMtdHQsEDxtALrM+YykbViS81NgLFDhx+Rdi\nLxaS+Z6YE43P8SQKKEuJFD7Z53qviNhRNfYRisW6VkpZI2/sL/THjzlEePbL\nnPiIrLGtCC2MGEXsQZ0alUnvu2Paxgi5mWX0Km/6xDGIZpDY+v2aUINTkXwL\nGxuS98AQuZ6u6N83bvN9wG3rkm1WUbYPCJvUHGO6yg==\n",
+  "msys": "BLq4MWGHwV9E4Dn4AFA4G4KXkZOBhu7/J9e+N/uMAHL5OoXs54/yoNCg/Ohv\nKqj4LWVJMNTf1hT2Mq+Tir7+miTXKrhNdpcDuDkaUfw2xKs8ifb6D0Ld2DG2\nk0u4e6XpJm7NWNNF1xUyRFmKicxZqEtzCSPdLarlJhouHojpuMCDDAM1vIEY\nA5uEpoPqUYupt1ywDyt/1O7ktlYdLpFFDVNh09FSUhT+rRdfoYeUJ8gMWV8O\nnh4plUCvLSA+KGnqJauRVtLC83T7qqQ40fGzLBa/6z2mtOJZyQuiR251WAWN\nVJ4LJnKKOOcqNResnR1w0LsIAK/k5pYK06vbSOUapQ==\n"
+}
