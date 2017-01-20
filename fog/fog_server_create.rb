@@ -5,6 +5,7 @@ class FogServerCreate
 		@provider = 'AWS'
 		@aws_access_key_id = 'aws_access_key_id'
 		@aws_secret_access_key = 'aws_secret_access_key'
+		create_server!
 	end
 
 	def run
@@ -17,7 +18,7 @@ class FogServerCreate
 		end
 	end
 
-	def create_server
+	def create_server!
 		@fog ||= Fog::Compute.new(
 			provider: @provider,
 			aws_access_key_id: @aws_access_key_id,
